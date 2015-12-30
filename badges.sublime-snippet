@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+[![Build Status](https://img.shields.io/travis/lichunqiang/apistore.svg?style=flat-square)](http://travis-ci.org/lichunqiang/apistore)
+[![version](https://img.shields.io/packagist/v/light/apistore.svg?style=flat-square)](https://packagist.org/packages/light/apistore)
+[![Download](https://img.shields.io/packagist/dt/light/apistore.svg?style=flat-square)](https://packagist.org/packages/light/apistore)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/lichunqiang/apistore.svg?style=flat-square)](https://scrutinizer-ci.com/g/lichunqiang/apistore)
+[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/lichunqiang/apistore.svg?style=flat-square)](https://scrutinizer-ci.com/g/lichunqiang/apistore)
+[![Contact](https://img.shields.io/badge/weibo-@chunqiang-blue.svg?style=flat-square)](http://weibo.com/chunqiang)
+
+![MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>badge</tabTrigger>
+	<description>badge</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
